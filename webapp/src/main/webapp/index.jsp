@@ -2,7 +2,13 @@
 <blockquote cite="http://www.worldwildlife.org/who/index.html">
 For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live. 
 
+<<<<<<< HEAD
 When Pablo and Nandita got married, I gave them a leather-bound copy of Neruda's Twenty Love Poems and a Song of Despair. Pablo ripped open the gift-wrapped packet soon as we walked out of the marriage registrar's office into the molten summer noon. "Nice!" he said, smiling through his beard. "Thanks, Tara," Nandita gripped my elbow, teary-eyed. She had been very quiet all morning.
+=======
+    <label for="email"><b>Enter Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email123" id="email" required>
+    <br>
+>>>>>>> b82418dd1e2748eded9109584e5628953c642fd3
 
 As our wedding party of four (the bride, the groom, Mitra—witness no. 1, me—witness no. 2) sauntered down the street, I remembered Nandita telling me that Pablo's parents had christened him Michael Fernandes in memory of his grandfather, a Goan fisherman who had quadrupled the family fortune by laying the foundation of a thriving export house, a man of vision, a man who saw a business opportunity in the boatloads of silver-scaled fish that sailed towards the Goan shore as the sea glistened in the sun. His company started out by exporting prawns to Europe. In a few years, it spread its tentacles to America and Australia.
 
